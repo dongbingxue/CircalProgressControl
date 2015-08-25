@@ -125,7 +125,6 @@ class CircleShapeView: UIControl {
             
             attributedString.addAttributes([NSFontAttributeName:UIFont(name: "HelveticaNeue-thin", size: 18)!], range: NSMakeRange(progressString.length+1,status.length))
             
-            
         }
         else {
             
